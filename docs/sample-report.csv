@@ -1,0 +1,6 @@
+﻿ts,model,provider,project,prompt_tokens,completion_tokens,total_tokens,cost,latency_ms,status,error
+2026-09-13T14:54:55+00:00,gpt-4o,,etl,24000,200,24200,0.062,0.0,ok,
+2026-09-13T14:54:55+00:00,deepseek-chat,,api-svc,56000,15000,71000,0.03162,0.0,ok,
+2026-09-13T14:54:55+00:00,claude-3-5-sonnet,,api-svc,12000,3400,15400,0.087,0.0,ok,
+2026-09-13T14:54:55+00:00,gpt-4o-mini,,web-app,34000,8900,42900,0.010440000000000001,0.0,ok,
+2026-09-13T14:54:55+00:00,gpt-4o,,web-app,8500,1200,9700,0.03325,0.0,ok,
